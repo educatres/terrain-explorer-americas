@@ -35,6 +35,7 @@ const selectedCategories = new Set(Object.keys(CATEGORY_META));
 const markersById = new Map();
 let places = [];
 let quizzes = [];
+let photosByPlace = {};
 let currentQuiz = null;
 let missionIndex = 0;
 
@@ -49,16 +50,50 @@ async function loadJson(path) {
   return response.json();
 }
 
+function escapeHtml(value) {
+  return String(value ?? '').replace(/[&<>'"]/g, character => ({
+    '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;'
+  })[character]);
+}
+
+function streetViewUrl(place) {
+  const viewpoint = `${encodeURIComponent(place.lat)},${encodeURIComponent(place.lng)}`;
+  return `https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=${viewpoint}`;
+}
+
+function buildPhotoGallery(place) {
+  const photos = photosByPlace[place.id] || [];
+  if (!photos.length) return '';
+
+  return `<section class="info-section photo-section" aria-labelledby="photo-heading">
+    <div class="photo-heading"><h2 id="photo-heading">CC 授權實景照片</h2><span>${photos.length} 張</span></div>
+    <div class="photo-gallery">${photos.map(photo => `
+      <figure class="photo-item${photo.panorama ? ' panorama' : ''}">
+        <a href="${escapeHtml(photo.source)}" target="_blank" rel="noopener" aria-label="在 Wikimedia Commons 查看原始照片">
+          <img src="${escapeHtml(photo.image)}" alt="${escapeHtml(`${place.nameZh}：${photo.title}`)}" loading="lazy" decoding="async" width="${photo.width}" height="${photo.height}">
+          ${photo.panorama ? '<span class="panorama-badge">全景</span>' : ''}
+        </a>
+        <figcaption>
+          <span class="photo-title">${escapeHtml(photo.title)}</span>
+          <span>攝影／作者：${escapeHtml(photo.author)}</span>
+          <a href="${escapeHtml(photo.licenseUrl)}" target="_blank" rel="noopener">${escapeHtml(photo.license)}</a>
+        </figcaption>
+      </figure>`).join('')}</div>
+    <p class="photo-note">照片來自 Wikimedia Commons；點選照片可查看原始檔與完整授權資訊。</p>
+  </section>`;
+}
+
 function buildInfo(place) {
   const meta = CATEGORY_META[place.category];
   document.getElementById('infoPanel').innerHTML = `
     <p class="eyebrow">${meta.icon} ${meta.label}</p><h2 class="place-title">${place.nameZh}</h2><p class="place-en">${place.nameEn}</p>
     <div class="tag-row"><span class="tag">${place.country}</span><span class="tag">${place.region}</span></div>
+    ${buildPhotoGallery(place)}
     <div class="info-section"><h2>地形簡介</h2><p>${place.summary}</p></div>
     <div class="info-section"><h2>形成原因</h2><p>${place.formation}</p></div>
     <div class="info-section"><h2>觀察重點</h2><ul>${place.features.map(feature => `<li>${feature}</li>`).join('')}</ul></div>
     <div class="lesson-box"><h2>思考問題</h2><p>${place.question}</p></div>
-    <div class="info-section action-links"><a href="${place.maps}" target="_blank" rel="noopener">在 Google 地圖開啟</a><a href="${place.video}" target="_blank" rel="noopener">公開影片搜尋</a></div>
+    <div class="info-section action-links"><a href="${streetViewUrl(place)}" target="_blank" rel="noopener">開啟街景／實景</a><a href="${place.video}" target="_blank" rel="noopener">公開影片搜尋</a></div>
     <div class="info-section"><h2>出處與延伸閱讀</h2><div class="source-card"><strong>官方／主要來源</strong><br><a href="${place.official}" target="_blank" rel="noopener">開啟來源網站</a></div><div class="source-card">${place.sourceNote}</div></div>`;
 }
 
@@ -159,7 +194,11 @@ function showQuiz() {
 
 async function init() {
   try {
-    [places, quizzes] = await Promise.all([loadJson('data/places.json'), loadJson('data/quizzes.json')]);
+    [places, quizzes, photosByPlace] = await Promise.all([
+      loadJson('data/places.json'),
+      loadJson('data/quizzes.json'),
+      loadJson('data/photos.json')
+    ]);
     addPlaces(); renderFilters(); renderPlaceList(); renderLegend();
     await Promise.all([
       addGeoJsonLayer('geojson/mountains.geojson', { color: '#b78653', weight: 4, opacity: 0.9 }),
