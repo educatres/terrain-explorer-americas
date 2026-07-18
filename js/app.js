@@ -56,9 +56,9 @@ function escapeHtml(value) {
   })[character]);
 }
 
-function streetViewUrl(place) {
-  const viewpoint = `${encodeURIComponent(place.lat)},${encodeURIComponent(place.lng)}`;
-  return `https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=${viewpoint}`;
+function googleExploreUrl(place) {
+  const query = encodeURIComponent(`${place.nameEn}, ${place.country}`);
+  return `https://www.google.com/maps/search/?api=1&query=${query}`;
 }
 
 function buildPhotoGallery(place) {
@@ -93,7 +93,7 @@ function buildInfo(place) {
     <div class="info-section"><h2>形成原因</h2><p>${place.formation}</p></div>
     <div class="info-section"><h2>觀察重點</h2><ul>${place.features.map(feature => `<li>${feature}</li>`).join('')}</ul></div>
     <div class="lesson-box"><h2>思考問題</h2><p>${place.question}</p></div>
-    <div class="info-section action-links"><a href="${streetViewUrl(place)}" target="_blank" rel="noopener">開啟街景／實景</a><a href="${place.video}" target="_blank" rel="noopener">公開影片搜尋</a></div>
+    <div class="info-section action-links"><a href="${googleExploreUrl(place)}" target="_blank" rel="noopener">探索實景照片</a><a href="${place.video}" target="_blank" rel="noopener">公開影片搜尋</a></div>
     <div class="info-section"><h2>出處與延伸閱讀</h2><div class="source-card"><strong>官方／主要來源</strong><br><a href="${place.official}" target="_blank" rel="noopener">開啟來源網站</a></div><div class="source-card">${place.sourceNote}</div></div>`;
 }
 
