@@ -42,6 +42,7 @@ h2 { font-size:1rem; margin:0 0 10px; }
 .place-list small { display:block; color:var(--muted); font-size:.72rem; margin-top:2px; }
 .lesson-box { background:#f2f8ee; border:1px solid #dfead7 !important; padding:14px !important; border-radius:14px; }
 .lesson-box p { font-size:.92rem; line-height:1.55; }
+.conservation-box { background:#fff5e8; border-color:#efd6ad !important; }
 .text-btn { border:0; background:transparent; color:var(--primary); padding:0; font-weight:800; cursor:pointer; }
 .map-panel { position:relative; min-width:0; }
 #map { width:100%; height:100%; background:#0e1b1c; }
@@ -81,6 +82,7 @@ h2 { font-size:1rem; margin:0 0 10px; }
 .custom-marker span { transform:rotate(45deg); font-size:15px; }
 .map-label { border:0 !important; border-radius:3px; box-shadow:0 1px 4px rgba(0,0,0,.45); background:rgba(255,255,255,.92); color:#17322b; font-size:11px; font-weight:800; padding:2px 5px; white-space:nowrap; }
 .map-label::before { display:none; }
+.map-overview .map-label-place { display:none; }
 .map-label-line { background:rgba(225,248,255,.9); color:#075a86; }
 dialog { width:min(560px, 92vw); border:0; border-radius:18px; padding:0; box-shadow:var(--shadow); }
 dialog::backdrop { background:rgba(17,35,30,.54); }

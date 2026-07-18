@@ -11,12 +11,13 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 API = "https://commons.wikimedia.org/w/api.php"
-USER_AGENT = "NorthAmericaGeographyLesson/1.0 (educational GitHub Pages project)"
+USER_AGENT = "AmericasGeographyLesson/2.0 (educational GitHub Pages project)"
 MAX_PHOTOS = 6
 REJECT_WORDS = {
     "map", "locator", "location", "logo", "icon", "flag", "seal", "diagram",
     "route", "highway", "coat of arms", "poster", "drawing", "painting",
-    "chocolate", "rendered", "banner", "karte", "composite image", "print; prints"
+    "chocolate", "rendered", "banner", "karte", "composite image", "print; prints",
+    "pintura", "óleo sobre tela", "satellite", "copernicus sentinel"
 }
 
 QUERY_OVERRIDES = {
@@ -27,6 +28,17 @@ QUERY_OVERRIDES = {
     "great-lakes": "Lake Superior shoreline landscape",
     "great-bear-lake": 'intitle:"Great Bear Lake"',
     "colorado-river": "Colorado River canyon",
+    "andes": "Andes Mountains landscape",
+    "amazon-river": "Amazon River boat",
+    "orinoco-river": '"Orinoco River" Venezuela',
+    "lake-titicaca": "Lake Titicaca landscape",
+    "atacama-desert": "Atacama Desert landscape",
+    "patagonia": "Patagonia landscape glaciers",
+    "iguazu-falls": "Iguazu Falls landscape",
+    "arenal-volcano": "Arenal Volcano Costa Rica",
+    "galapagos-np": "Galápagos landscape Ecuador",
+    "torres-del-paine-np": "Torres del Paine National Park landscape",
+    "american-bison": '"Bison bison" Yellowstone wildlife',
 }
 
 
@@ -51,7 +63,7 @@ def api_request(params):
 
 
 def fetch_photos(place):
-    query = QUERY_OVERRIDES.get(place["id"], place["nameEn"])
+    query = QUERY_OVERRIDES.get(place["id"], place.get("scientificName", place["nameEn"]))
     data = api_request({
         "action": "query",
         "format": "json",
@@ -101,9 +113,11 @@ def main():
     parser.add_argument("place_ids", nargs="*", help="Only refresh these place IDs")
     args = parser.parse_args()
     places = json.loads((ROOT / "data" / "places.json").read_text())
+    species = json.loads((ROOT / "data" / "species.json").read_text())
+    items = places + species
     output = ROOT / "data" / "photos.json"
     result = json.loads(output.read_text()) if output.exists() else {}
-    for place in places:
+    for place in items:
         if args.place_ids and place["id"] not in args.place_ids:
             continue
         photos = fetch_photos(place)

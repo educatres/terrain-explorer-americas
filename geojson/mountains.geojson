@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"type":"Feature","properties":{"name":"洛磯山脈","source":"Natural Earth/公開地理資料參考後之教學概略化"},"geometry":{"type":"LineString","coordinates":[[-116,32],[-113,38],[-111,43],[-114,49],[-120,54],[-124,59]]}},
 {"type":"Feature","properties":{"name":"阿帕拉契山脈","source":"Natural Earth/公開地理資料參考後之教學概略化"},"geometry":{"type":"LineString","coordinates":[[-84,33],[-81,37],[-78,40],[-74,44],[-66,48]]}},
-{"type":"Feature","properties":{"name":"阿拉斯加山脈","source":"Natural Earth/公開地理資料參考後之教學概略化"},"geometry":{"type":"LineString","coordinates":[[-153,61],[-150,63],[-145,63],[-141,62]]}}
+{"type":"Feature","properties":{"name":"阿拉斯加山脈","source":"Natural Earth/公開地理資料參考後之教學概略化"},"geometry":{"type":"LineString","coordinates":[[-153,61],[-150,63],[-145,63],[-141,62]]}},
+{"type":"Feature","properties":{"name":"安地斯山脈","source":"Natural Earth/公開地理資料參考後之教學概略化"},"geometry":{"type":"LineString","coordinates":[[-72,10],[-77,-3],[-75,-12],[-69,-22],[-70,-33],[-73,-43],[-71,-52]]}}
 ]}

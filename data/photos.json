@@ -1088,5 +1088,1637 @@
       "width": 5445,
       "height": 3064
     }
+  ],
+  "andes": [
+    {
+      "title": "Quebrada de Humahuaca, Andes, Argentina.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Quebrada_de_Humahuaca_Andes_Argentina_Luca_Galuzzi_2005.JPG/960px-Quebrada_de_Humahuaca_Andes_Argentina_Luca_Galuzzi_2005.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Quebrada_de_Humahuaca_Andes_Argentina_Luca_Galuzzi_2005.JPG",
+      "author": "Luca Galuzzi (Lucag)",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "panorama": false,
+      "width": 2000,
+      "height": 1333
+    },
+    {
+      "title": "The Andes, Chile",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Panoramic_view_Andes-Chile.jpg/960px-Panoramic_view_Andes-Chile.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Panoramic_view_Andes-Chile.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 3264,
+      "height": 1737
+    },
+    {
+      "title": "Montañas llenas de Naturaleza",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Andes_Verdes..JPG/960px-Andes_Verdes..JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Andes_Verdes..JPG",
+      "author": "José Luis Valero",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 4608,
+      "height": 3456
+    },
+    {
+      "title": "Trujillo.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Los_Andes_Trujillanos..JPG/960px-Los_Andes_Trujillanos..JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Los_Andes_Trujillanos..JPG",
+      "author": "José Luis Valero",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 4608,
+      "height": 3456
+    },
+    {
+      "title": "View of a part of Los Andes Mountains from a viewpoint of the El Leoncito National Park in San Juan, Argentina.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Cordillera_de_Los_Andes_desde_El_Leoncito.jpg/960px-Cordillera_de_Los_Andes_desde_El_Leoncito.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cordillera_de_Los_Andes_desde_El_Leoncito.jpg",
+      "author": "Hernan Gabriel Alvarez Guerra",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "panorama": false,
+      "width": 2560,
+      "height": 1920
+    },
+    {
+      "title": "Mountains and reflections surrounding the Uyuni salt flat during sunrise, Daniel Campos Province, Potosí Department, southwestern Bolivia, not far from the crest of the Andes. This salt flat is, with a surface of 10,582 square kilometers (4,086 sq mi), the world's largest, and during the rain saison (December-February) offers spectacular reflexions.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Salar_de_Uyuni%2C_Bolivia%2C_2016-02-04%2C_DD_10-12_HDR.JPG/960px-Salar_de_Uyuni%2C_Bolivia%2C_2016-02-04%2C_DD_10-12_HDR.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Salar_de_Uyuni,_Bolivia,_2016-02-04,_DD_10-12_HDR.JPG",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "panorama": false,
+      "width": 8654,
+      "height": 4868
+    }
+  ],
+  "amazon-river": [
+    {
+      "title": "Regional ship on the amazon river",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Amazon_boat.jpg/960px-Amazon_boat.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Amazon_boat.jpg",
+      "author": "user:Pontanegra",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "panorama": false,
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "title": "Boat builder building a canoe from Itaúba in the beach of Oriximina, Pará, Brasil",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Boat_builder.jpg/960px-Boat_builder.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Boat_builder.jpg",
+      "author": "Amit Kenny",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "panorama": false,
+      "width": 1280,
+      "height": 960
+    },
+    {
+      "title": "Boat maintanence by several workers on the beach of Oriximina, Pará, Brazil",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Boat_maintanence.jpg/960px-Boat_maintanence.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Boat_maintanence.jpg",
+      "author": "Amit Kenny",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "panorama": false,
+      "width": 1280,
+      "height": 960
+    },
+    {
+      "title": "boat &air traffic on the Amazon near Iquitos, Peru",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Boat_%26_air_traffic_on_the_Amazon.JPG/960px-Boat_%26_air_traffic_on_the_Amazon.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Boat_%26_air_traffic_on_the_Amazon.JPG",
+      "author": "Fritz Rudolf Loewa",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 3360,
+      "height": 5040
+    },
+    {
+      "title": "A river boat in the Amazon. The boat is at the right as it rides towards the sunset.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/River_boat_at_sunset.JPG/960px-River_boat_at_sunset.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:River_boat_at_sunset.JPG",
+      "author": "Joshjrowe",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 3072,
+      "height": 2304
+    },
+    {
+      "title": "Rio Napo (river on East side of the Andes) by boat, taken near Coca, Ecuador, South America",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Rio-napo-by-boat-snd.JPG/960px-Rio-napo-by-boat-snd.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Rio-napo-by-boat-snd.JPG",
+      "author": "SabineDeviche",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "panorama": false,
+      "width": 4608,
+      "height": 2556
+    }
+  ],
+  "orinoco-river": [
+    {
+      "title": "Orinoco river (biggest and largest in Venezuela) at sunset, from Hileros de Parmana",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Parmana_R%C3%ADo_Orinoco_Venezuela_%286%29.JPG/960px-Parmana_R%C3%ADo_Orinoco_Venezuela_%286%29.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Parmana_R%C3%ADo_Orinoco_Venezuela_(6).JPG",
+      "author": "Paolo Costa Baldi",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 4288,
+      "height": 2848
+    },
+    {
+      "title": "Cruce del Rio entre Puerto Ayacucho (Venezuela) y Casuarito (Colombia)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cruce_del_Rio_entre_Puerto_Ayacho_%28Venezuela%29_y_Casuarito_%28Colombia%29.JPG/960px-Cruce_del_Rio_entre_Puerto_Ayacho_%28Venezuela%29_y_Casuarito_%28Colombia%29.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Cruce_del_Rio_entre_Puerto_Ayacho_(Venezuela)_y_Casuarito_(Colombia).JPG",
+      "author": "JavierEVidalM",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 3648,
+      "height": 2736
+    },
+    {
+      "title": "Cruce del Rio entre Puerto Ayacho (Venezuela) y Casuarito (Colombia)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Embarcaci%C3%B3n_para_cruzar_del_Rio_entre_Puerto_Ayacho_%28Venezuela%29_y_Casuarito_%28Colombia%29.JPG/960px-Embarcaci%C3%B3n_para_cruzar_del_Rio_entre_Puerto_Ayacho_%28Venezuela%29_y_Casuarito_%28Colombia%29.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Embarcaci%C3%B3n_para_cruzar_del_Rio_entre_Puerto_Ayacho_(Venezuela)_y_Casuarito_(Colombia).JPG",
+      "author": "JavierEVidalM",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 3648,
+      "height": 2736
+    },
+    {
+      "title": "Autana, Amazonas, Venezuela",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Autana%2C_Amazonas%2C_Venezuela_-_panoramio.jpg/960px-Autana%2C_Amazonas%2C_Venezuela_-_panoramio.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Autana,_Amazonas,_Venezuela_-_panoramio.jpg",
+      "author": "Daniel Bertoni",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "panorama": false,
+      "width": 2464,
+      "height": 1632
+    },
+    {
+      "title": "12, Amazonas, Venezuela",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/12%2C_Amazonas%2C_Venezuela_-_panoramio_%288%29.jpg/960px-12%2C_Amazonas%2C_Venezuela_-_panoramio_%288%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:12,_Amazonas,_Venezuela_-_panoramio_(8).jpg",
+      "author": "Daniel Bertoni",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "panorama": false,
+      "width": 2464,
+      "height": 1632
+    },
+    {
+      "title": "12, Amazonas, Venezuela",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/12%2C_Amazonas%2C_Venezuela_-_panoramio_%289%29.jpg/960px-12%2C_Amazonas%2C_Venezuela_-_panoramio_%289%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:12,_Amazonas,_Venezuela_-_panoramio_(9).jpg",
+      "author": "Daniel Bertoni",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "panorama": false,
+      "width": 2464,
+      "height": 1632
+    }
+  ],
+  "lake-titicaca": [
+    {
+      "title": "Landscape with quinoa (Chenopodium quinoa), Cachilaya, Bolivia, La Paz Department, Puerto Pérez Canton, Lake Titicaca seen in background.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Chenopodium_quinoa_in_Cachilaya%2C_Bolivia%2C_Lake_Titicaca.JPG/960px-Chenopodium_quinoa_in_Cachilaya%2C_Bolivia%2C_Lake_Titicaca.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Chenopodium_quinoa_in_Cachilaya,_Bolivia,_Lake_Titicaca.JPG",
+      "author": "Michael Hermann",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 2272,
+      "height": 1704
+    },
+    {
+      "title": "Landscape with quinoa (Chenopodium quinoa), Cachilaya, Bolivia, Province La Paz, Lake Titicaca seen in background.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Landscape_with_Chenopodium_quinoa_Cachilaya_Bolivia_Lake_Titicaca.jpg/960px-Landscape_with_Chenopodium_quinoa_Cachilaya_Bolivia_Lake_Titicaca.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Landscape_with_Chenopodium_quinoa_Cachilaya_Bolivia_Lake_Titicaca.jpg",
+      "author": "Michael Hermann",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 1704,
+      "height": 2272
+    },
+    {
+      "title": "Drying freshly harvested quinoa (Chenopodium quinoa) in Titicaca lakeshore landscape, near Puno, Peru.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Drying_quinoa_near_Puno.JPG/960px-Drying_quinoa_near_Puno.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Drying_quinoa_near_Puno.JPG",
+      "author": "Michael Hermann",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 2272,
+      "height": 1704
+    },
+    {
+      "title": "Lake Titicaca is a lake in the Andes on the border of Peru and Bolivia. By volume of water, it is the largest lake in South America",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Lake_Titicaca_-_Road_to_Bolivia_%288385839315%29.jpg/960px-Lake_Titicaca_-_Road_to_Bolivia_%288385839315%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Lake_Titicaca_-_Road_to_Bolivia_(8385839315).jpg",
+      "author": "Alex Proimos from Sydney, Australia",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "panorama": false,
+      "width": 4312,
+      "height": 2874
+    },
+    {
+      "title": "Uros floating islands, Titicaca Lake, Peru",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Islas_flotantes_de_los_Uros%2C_Lago_Titicaca%2C_Per%C3%BA%2C_2015-08-01%2C_DD_44-48_PAN.jpg/960px-Islas_flotantes_de_los_Uros%2C_Lago_Titicaca%2C_Per%C3%BA%2C_2015-08-01%2C_DD_44-48_PAN.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Islas_flotantes_de_los_Uros,_Lago_Titicaca,_Per%C3%BA,_2015-08-01,_DD_44-48_PAN.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "panorama": true,
+      "width": 20157,
+      "height": 4234
+    },
+    {
+      "title": "Sunrise in the Lake Titicaca, near Puno, in the Peruvian Andes, not far from Bolivia. The lake is, by volume of water, the largest in South America and, with a surface elevation of 3,812 metres (12,507 ft), it's considered the highest navigable lake in the world. The lake has a maximum length of 190 kilometres (120 mi) and width of 80 kilometres (50 mi) and a surface of 8,372 square kilometres (3,232 sq mi), whereas the water volume is 893 cubic kilometres (214 cu mi) with a max. depth of 281 metres (922 ft) and an average depth of 107 metres (351 ft).",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Amanecer_en_el_lago_Titicaca%2C_Puno%2C_Per%C3%BA%2C_2015-08-01%2C_DD_01.JPG/960px-Amanecer_en_el_lago_Titicaca%2C_Puno%2C_Per%C3%BA%2C_2015-08-01%2C_DD_01.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Amanecer_en_el_lago_Titicaca,_Puno,_Per%C3%BA,_2015-08-01,_DD_01.JPG",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "panorama": true,
+      "width": 8688,
+      "height": 4205
+    }
+  ],
+  "atacama-desert": [
+    {
+      "title": "The Atacama Desert is one of the driest places in the world. Several factors contribute to its arid conditions. The magnificent Andes mountain range and the Chilean Coast Range block the clouds from the east and west, respectively. In addition, the cold offshore Humboldt Current in the Pacific Ocean, which creates a coastal inversion layer of cool air, hinders the formation of rain clouds. Moreover, a region of high pressure in the south-eastern Pacific Ocean creates circulating winds, forming an anticyclone, which also helps to keep the climate of the Atacama Desert dry. These arid conditions were a major factor for ESO in placing the Very Large Telescope (VLT) at Paranal, in the Atacama Desert. At the Paranal Observatory, located on the summit of Cerro Paranal, the precipitation levels are usually below ten millimetres per year, with the humidity often dropping below 10%. The observational conditions are excellent, with over 300 clear nights per year.\nThe splendid conditions for astronomical observations in the Atacama Desert are only rarely disturbed by the weather. However, for perhaps a couple of days each year, snow pays a visit to the Atacama Desert. This picture shows a beautiful panoramic view of Cerro Paranal. The VLT is on the peak on the left, and the VISTA survey telescope is on a slightly lower peak, a short distance to the right. The blue sky shows that this is yet another clear sunny day. This time, though, something is different: a thin dusting of snow has transformed the desert landscape, producing an unusual view of rare beauty.\n\nThis image was taken by ESO Photo Ambassador Stéphane Guisard on 1 August 2011.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Snow_Comes_to_the_Atacama_Desert.jpg/960px-Snow_Comes_to_the_Atacama_Desert.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Snow_Comes_to_the_Atacama_Desert.jpg",
+      "author": "ESO/S. Guisard",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "panorama": true,
+      "width": 8337,
+      "height": 4000
+    },
+    {
+      "title": "The domes of ESO’s Very Large Telescope sit atop Cerro Paranal, basking in the sunlight of another glorious cloudless day. But something is different about this picture: a fine layer of snow has settled across the desert landscape. This isn’t something you see every day: quite the opposite in fact, as the Atacama Desert gets almost no precipitation.\nSeveral factors contribute to the dry conditions in the Atacama. The Andes mountain range blocks rain from the east, and the Chilean Coast Range from the west. The cold offshore Humboldt current in the Pacific Ocean creates a coastal inversion layer of cool air, which prevents rain clouds from developing. A region of high pressure in the south-eastern Pacific Ocean creates circulating winds, forming an anticyclone, which also helps to keep the climate of the Atacama dry. Thanks to all these factors, the region is widely regarded as the driest place on Earth!\nAt Paranal, the precipitation levels are usually just a few millimetres per year, with the humidity often dropping below 10%, and temperatures ranging from -8 to 25 degrees Celsius. The dry conditions in the Atacama Desert are a major reason why ESO chose it, and Cerro Paranal, to host the Very Large Telescope. While the very occasional snowfall may temporarily disrupt the dry conditions here, it does at least produce unusual views of rare beauty.\n\nThis photograph was taken by ESO Photo Ambassador Stéphane Guisard on 1 August 2011.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/A_Dusting_of_Snow_in_the_Atacama_desert.jpg/960px-A_Dusting_of_Snow_in_the_Atacama_desert.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:A_Dusting_of_Snow_in_the_Atacama_desert.jpg",
+      "author": "ESO/S. Guisard",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "panorama": false,
+      "width": 5616,
+      "height": 3744
+    },
+    {
+      "title": "This gorgeous photograph, taken in the Atacama Desert in Chile, shows star trails circling the South Celestial Pole, over a cacti-dominated still landscape. The star trails show the apparent path of the stars in the sky as the Earth slowly rotates, and are captured by taking long-exposure shots.\nA final deeper exposure was superimposed over the magnificent trails, revealing many more, fainter stars and, just rising above the horizon, the southern Milky Way, with its patches of dark dust and the well-known pinkish glow of the Carina Nebula. Towards the right, the satellite galaxies of the Milky Way, the Large (top-centre) and Small (bottom-right) Magellanic Clouds, can also be seen.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Star_Trails_over_Atacama_Desert_Cacti.jpg/960px-Star_Trails_over_Atacama_Desert_Cacti.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Star_Trails_over_Atacama_Desert_Cacti.jpg",
+      "author": "ESO/B. Tafreshi (twanight.org)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "panorama": false,
+      "width": 4000,
+      "height": 2667
+    },
+    {
+      "title": "View of \"the Amfitheater\", a rock formation in Valle de la Luna (in Spanish \"Moon Valley\") during the golden hour, Atacama Desert, Chile. Valle de la Luna is a part of the Reserva Nacional los Flamencos and was declared a Nature Sanctuary in 1982 for its great natural beauty and strange lunar landscape, from which its name is derived.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Anfiteatro%2C_Valle_de_la_Luna%2C_San_Pedro_de_Atacama%2C_Chile%2C_2016-02-01%2C_DD_149.JPG/960px-Anfiteatro%2C_Valle_de_la_Luna%2C_San_Pedro_de_Atacama%2C_Chile%2C_2016-02-01%2C_DD_149.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Anfiteatro,_Valle_de_la_Luna,_San_Pedro_de_Atacama,_Chile,_2016-02-01,_DD_149.JPG",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "panorama": false,
+      "width": 8688,
+      "height": 4379
+    },
+    {
+      "title": "Atacama Desert Landscape",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Atacama_Desert_Landscape_-_panoramio.jpg/960px-Atacama_Desert_Landscape_-_panoramio.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Atacama_Desert_Landscape_-_panoramio.jpg",
+      "author": "Daniel Nussbaum",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 2816,
+      "height": 2112
+    },
+    {
+      "title": "The convoy transporting the M1 Mirror Cell and the dummy mirror on the `Old Panamerica Road', in the extreme Atacama desert, north of Paranal.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/In_the_Atacama_Desert_%28eso9728b%29.jpg/960px-In_the_Atacama_Desert_%28eso9728b%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:In_the_Atacama_Desert_(eso9728b).jpg",
+      "author": "ESO",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "panorama": false,
+      "width": 1024,
+      "height": 768
+    }
+  ],
+  "patagonia": [
+    {
+      "title": "Perito Moreno Glacier, in Los Glaciares National Park, southern Argentina",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Glaciar-Perito-Moreno-01.jpg/960px-Glaciar-Perito-Moreno-01.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Glaciar-Perito-Moreno-01.jpg",
+      "author": "Tibby Jones",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "panorama": false,
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "title": "Perito Moreno Glacier, in Los Glaciares National Park, southern Argentina",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG/960px-Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG",
+      "author": "Luca Galuzzi (Lucag)",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "panorama": false,
+      "width": 2000,
+      "height": 1333
+    },
+    {
+      "title": "Vinciguerra Glacier (Unnamed Peaks : 1315 m, 1116 m, 1254 m, 1205 m) and De Los Tempanos Lake (716 m) (frozen) during the spring - Cordon Vinciguerra, Valley de Andorra, Tierra del Fuego, Patagonia, Argentina. Ramsar site no. 1886.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Glaciar_Vinciguerra.jpg/960px-Glaciar_Vinciguerra.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Glaciar_Vinciguerra.jpg",
+      "author": "Butterfly austral - Serge Ouachée",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 4288,
+      "height": 2848
+    },
+    {
+      "title": "Lago Argentino is a lake in the Patagonian province of Santa Cruz, Argentina. It is the biggest freshwater lake in Argentina, with a surface area of 1,466 km2 (566 sq mi) (maximum width: 20 mi (32 km)). It has an average depth of 150 m (492 ft), and a maximum depth of 500 m (1,640 ft).\nThe lake lies within the Los Glaciares National Park, in a landscape with numerous glaciers and is fed by the glacial meltwater of several rivers, the water from Lake Viedma brought by the La Leona River, and many mountain streams. Its drainage basin amounts to more than 17,000 km2 (6,564 sq mi). Waters from Lake Argentino flow into the Atlantic Ocean through the Santa Cruz River.\n\nThe glaciers, the nearby town of El Calafate and the lake itself are important tourist destinations. The lake in particular is appreciated for fishing. Perch, common galaxias, \"puyen grande\", lake trout and rainbow trout — in both anadromous and Potamodromous forms — are all found. - http://en.wikipedia.org/wiki/Lake_Argentino\" rel=\"nofollow\">wikipedia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flamingos%2C_Lago_Argentino%2C_Patagonia%2C_Argentina.jpg/960px-Flamingos%2C_Lago_Argentino%2C_Patagonia%2C_Argentina.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Flamingos,_Lago_Argentino,_Patagonia,_Argentina.jpg",
+      "author": "Dimitry B.",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "panorama": false,
+      "width": 3673,
+      "height": 2448
+    },
+    {
+      "title": "Parque Nacional Los Glaciares",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Parque_Nacional_Los_Glaciares_-_panoramio_%285%29.jpg/960px-Parque_Nacional_Los_Glaciares_-_panoramio_%285%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Parque_Nacional_Los_Glaciares_-_panoramio_(5).jpg",
+      "author": "littletroll",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": true,
+      "width": 5059,
+      "height": 1885
+    },
+    {
+      "title": "Mirador Torre - Parque Nacional Los Glaciares",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Mirador_Torre_-_Parque_Nacional_Los_Glaciares_-_panoramio.jpg/960px-Mirador_Torre_-_Parque_Nacional_Los_Glaciares_-_panoramio.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Mirador_Torre_-_Parque_Nacional_Los_Glaciares_-_panoramio.jpg",
+      "author": "littletroll",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": true,
+      "width": 4169,
+      "height": 1925
+    }
+  ],
+  "iguazu-falls": [
+    {
+      "title": "Impresionante salto de agua en las Cataratas del Iguazú",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Salto_en_las_Cataratas_del_Iguaz%C3%BA.jpg/960px-Salto_en_las_Cataratas_del_Iguaz%C3%BA.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Salto_en_las_Cataratas_del_Iguaz%C3%BA.jpg",
+      "author": "CarlosA.Barrio",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "panorama": false,
+      "width": 1632,
+      "height": 1224
+    },
+    {
+      "title": "Cataratas del Iguazú",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Cataratas_del_Iguaz%C3%BA_-_panoramio_%281%29.jpg/960px-Cataratas_del_Iguaz%C3%BA_-_panoramio_%281%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cataratas_del_Iguaz%C3%BA_-_panoramio_(1).jpg",
+      "author": "littletroll",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 2112,
+      "height": 2816
+    },
+    {
+      "title": "Cataratas del Iguazú",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Cataratas_del_Iguaz%C3%BA_-_panoramio_%283%29.jpg/960px-Cataratas_del_Iguaz%C3%BA_-_panoramio_%283%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cataratas_del_Iguaz%C3%BA_-_panoramio_(3).jpg",
+      "author": "littletroll",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": true,
+      "width": 3825,
+      "height": 1891
+    },
+    {
+      "title": "Fotografia da visão do lado brasileiro das cataratas de Foz do Iguaçu",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Foz_do_Iga%C3%A7u_%28vis%C3%A3o_lado_brasileiro%29_-_Parque_Nacional_de_Foz_do_Igua%C3%A7u.jpg/960px-Foz_do_Iga%C3%A7u_%28vis%C3%A3o_lado_brasileiro%29_-_Parque_Nacional_de_Foz_do_Igua%C3%A7u.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Foz_do_Iga%C3%A7u_(vis%C3%A3o_lado_brasileiro)_-_Parque_Nacional_de_Foz_do_Igua%C3%A7u.jpg",
+      "author": "Guilherme Minoti",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "panorama": true,
+      "width": 10488,
+      "height": 4676
+    },
+    {
+      "title": "Landscape view of Iguazu Falls (Salto Floriano – Brazil side), during the full water period of the Iguazu River, in rainy day, showing turbulent water after the fall.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Salto_Floriano_-_Iguazu_Falls.jpg/960px-Salto_Floriano_-_Iguazu_Falls.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Salto_Floriano_-_Iguazu_Falls.jpg",
+      "author": "Roldão Lima Junior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "panorama": false,
+      "width": 1063,
+      "height": 700
+    },
+    {
+      "title": "Cataratas vista desde Brasil",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Vista_panor%C3%A1mica_Cataratas_del_Iguaz%C3%BA.jpg/960px-Vista_panor%C3%A1mica_Cataratas_del_Iguaz%C3%BA.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Vista_panor%C3%A1mica_Cataratas_del_Iguaz%C3%BA.jpg",
+      "author": "Giovita70",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "panorama": false,
+      "width": 4608,
+      "height": 3456
+    }
+  ],
+  "arenal-volcano": [
+    {
+      "title": "Arenal Volcano at night",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Arenal_Volcano_at_night.jpg/960px-Arenal_Volcano_at_night.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Arenal_Volcano_at_night.jpg",
+      "author": "Peter Andersen",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "panorama": false,
+      "width": 2592,
+      "height": 1944
+    },
+    {
+      "title": "Arenal Volcano — as seen from the Monteverde Cloud Forest Reserve in the Cordillera de Tilarán.\nLocated in Puntarenas Province, Costa Rica.\nTalamancan montane forests in foreground.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Arenal_Volcano_as_seen_from_Monteverde.jpg/960px-Arenal_Volcano_as_seen_from_Monteverde.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Arenal_Volcano_as_seen_from_Monteverde.jpg",
+      "author": "Peter Andersen",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "panorama": false,
+      "width": 2457,
+      "height": 1643
+    },
+    {
+      "title": "Arenal Volcano - Costa Rica",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Arenal_Volcano_-_Costa_Rica_-_by_Ardyiii.jpg/960px-Arenal_Volcano_-_Costa_Rica_-_by_Ardyiii.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Arenal_Volcano_-_Costa_Rica_-_by_Ardyiii.jpg",
+      "author": "Ardyiii from flickr.com with a Nikon D50- https://www.flickr.com/photos/ardyiii/",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "panorama": false,
+      "width": 1024,
+      "height": 681
+    },
+    {
+      "title": "Arenal Volcano from across Lake Arenal in Costa Rica.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/ARENAL_VOLCANO_LAKE_PANORAMA.jpg/960px-ARENAL_VOLCANO_LAKE_PANORAMA.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:ARENAL_VOLCANO_LAKE_PANORAMA.jpg",
+      "author": "Ksaraf",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "panorama": true,
+      "width": 14384,
+      "height": 3919
+    },
+    {
+      "title": "View of the Arenal Volcano taken from The Springs Resort & Spa at Arenal.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Arenal_Volcano_in_Costa_Rica.JPG/960px-Arenal_Volcano_in_Costa_Rica.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Arenal_Volcano_in_Costa_Rica.JPG",
+      "author": "BonniesPics",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 4928,
+      "height": 3264
+    },
+    {
+      "title": "Arenal Volcano in Costa Rica - June 2014 (photo by Gotanero)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Volcano_Arenal_Costa_Rica_%282014%29_photo_by_Gotanero.jpg/960px-Volcano_Arenal_Costa_Rica_%282014%29_photo_by_Gotanero.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Volcano_Arenal_Costa_Rica_(2014)_photo_by_Gotanero.jpg",
+      "author": "Gotanero",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "panorama": false,
+      "width": 3648,
+      "height": 2736
+    }
+  ],
+  "galapagos-np": [
+    {
+      "title": "Las Grietas, Santa Cruz island, Galapagos islands, Ecuador",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Las_Grietas%2C_isla_Santa_Cruz%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-26%2C_DD_83.JPG/960px-Las_Grietas%2C_isla_Santa_Cruz%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-26%2C_DD_83.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Las_Grietas,_isla_Santa_Cruz,_islas_Gal%C3%A1pagos,_Ecuador,_2015-07-26,_DD_83.JPG",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "panorama": false,
+      "width": 4455,
+      "height": 6682
+    },
+    {
+      "title": "Las Grietas, Santa Cruz island, Galapagos islands, Ecuador",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Las_Grietas%2C_isla_Santa_Cruz%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-26%2C_DD_64-66_HDR.JPG/960px-Las_Grietas%2C_isla_Santa_Cruz%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-26%2C_DD_64-66_HDR.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Las_Grietas,_isla_Santa_Cruz,_islas_Gal%C3%A1pagos,_Ecuador,_2015-07-26,_DD_64-66_HDR.JPG",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "panorama": false,
+      "width": 5785,
+      "height": 8677
+    },
+    {
+      "title": "Las Grietas, Santa Cruz island, Galapagos islands, Ecuador",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Las_Grietas%2C_isla_Santa_Cruz%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-26%2C_DD_85-86_HDR.JPG/960px-Las_Grietas%2C_isla_Santa_Cruz%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-26%2C_DD_85-86_HDR.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Las_Grietas,_isla_Santa_Cruz,_islas_Gal%C3%A1pagos,_Ecuador,_2015-07-26,_DD_85-86_HDR.JPG",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "panorama": false,
+      "width": 4981,
+      "height": 7471
+    },
+    {
+      "title": "Sunrise in San Cristobal island, Galapagos islands, Ecuador",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Amanecer_en_isla_de_San_Crist%C3%B3bal%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-25%2C_DD_02.JPG/960px-Amanecer_en_isla_de_San_Crist%C3%B3bal%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-25%2C_DD_02.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Amanecer_en_isla_de_San_Crist%C3%B3bal,_islas_Gal%C3%A1pagos,_Ecuador,_2015-07-25,_DD_02.JPG",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "panorama": false,
+      "width": 8687,
+      "height": 4859
+    },
+    {
+      "title": "Las Grietas, Santa Cruz island, Galapagos islands, Ecuador",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Las_Grietas%2C_isla_Santa_Cruz%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-26%2C_DD_67-69_HDR.JPG/960px-Las_Grietas%2C_isla_Santa_Cruz%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-26%2C_DD_67-69_HDR.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Las_Grietas,_isla_Santa_Cruz,_islas_Gal%C3%A1pagos,_Ecuador,_2015-07-26,_DD_67-69_HDR.JPG",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "panorama": false,
+      "width": 5771,
+      "height": 8657
+    },
+    {
+      "title": "Coast of Santa Cruz Island, Galapagos Islands, Ecuador",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Costa_de_isla_Santa_Cruz%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-26%2C_DD_49.JPG/960px-Costa_de_isla_Santa_Cruz%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-26%2C_DD_49.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Costa_de_isla_Santa_Cruz,_islas_Gal%C3%A1pagos,_Ecuador,_2015-07-26,_DD_49.JPG",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "panorama": false,
+      "width": 8676,
+      "height": 5788
+    }
+  ],
+  "torres-del-paine-np": [
+    {
+      "title": "Not the typical landscape one associates with Torres del Paine, but much of the area on the southern edge of the park is desert / steppe, just like this -- rolling glaciar-scoured hills dotted with dozens of little salty lakes -- excellent places to go bird-watching.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Lago_Amarga_outside_Torres_del_Paine_%283281114241%29.jpg/960px-Lago_Amarga_outside_Torres_del_Paine_%283281114241%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Lago_Amarga_outside_Torres_del_Paine_(3281114241).jpg",
+      "author": "Jason Hollinger",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "panorama": true,
+      "width": 3648,
+      "height": 1821
+    },
+    {
+      "title": "Torres del Paine National Park",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Torres_del_Paine_National_Park_%285484136565%29.jpg/960px-Torres_del_Paine_National_Park_%285484136565%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Torres_del_Paine_National_Park_(5484136565).jpg",
+      "author": "Liam Quinn from Canada",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "panorama": false,
+      "width": 5616,
+      "height": 3744
+    },
+    {
+      "title": "in & around Torres Del Paine Nat'l Park...the sound of hoofs at dawn outside my Hotel window...",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/In_%26_around_Torres_Del_Paine_Nat%27l_Park_-_the_sound_of_hoofs_at_dawn_outside_my_Hotel_window_-_%2824558986483%29.jpg/960px-In_%26_around_Torres_Del_Paine_Nat%27l_Park_-_the_sound_of_hoofs_at_dawn_outside_my_Hotel_window_-_%2824558986483%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:In_%26_around_Torres_Del_Paine_Nat%27l_Park_-_the_sound_of_hoofs_at_dawn_outside_my_Hotel_window_-_(24558986483).jpg",
+      "author": "Murray Foubister",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "panorama": false,
+      "width": 6613,
+      "height": 4409
+    },
+    {
+      "title": "Laguna los Cisnes - Parque Nacional Torres del Paine",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Laguna_los_Cisnes_-_Parque_Nacional_Torres_del_Paine_-_panoramio.jpg/960px-Laguna_los_Cisnes_-_Parque_Nacional_Torres_del_Paine_-_panoramio.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Laguna_los_Cisnes_-_Parque_Nacional_Torres_del_Paine_-_panoramio.jpg",
+      "author": "littletroll",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": true,
+      "width": 7221,
+      "height": 1556
+    },
+    {
+      "title": "Torres del Paine",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Torres_del_Paine_-_panoramio_%281%29.jpg/960px-Torres_del_Paine_-_panoramio_%281%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Torres_del_Paine_-_panoramio_(1).jpg",
+      "author": "littletroll",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 3671,
+      "height": 2099
+    },
+    {
+      "title": "Torres del Paine nationalpark",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Torres_del_Paine_nationalpark-CTJ-IMG_6998.jpg/960px-Torres_del_Paine_nationalpark-CTJ-IMG_6998.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Torres_del_Paine_nationalpark-CTJ-IMG_6998.jpg",
+      "author": "Christer T Johansson",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "panorama": false,
+      "width": 1024,
+      "height": 666
+    }
+  ],
+  "axolotl": [
+    {
+      "title": "Photo of Ambystoma mexicanum (axolotl) at the Steinhart Aquarium in San Francisco",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ambystoma_mexicanum_1.jpg/960px-Ambystoma_mexicanum_1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ambystoma_mexicanum_1.jpg",
+      "author": "Stan Shebs",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 1200,
+      "height": 1079
+    },
+    {
+      "title": "Photo of Ambystoma mexicanum (axolotl) at the Steinhart Aquarium in San Francisco",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ambystoma_mexicanum_3.jpg/960px-Ambystoma_mexicanum_3.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ambystoma_mexicanum_3.jpg",
+      "author": "Stan Shebs",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 1800,
+      "height": 1235
+    },
+    {
+      "title": "White axolotl (Ambystoma mexicanum) captive bred white morph",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ambystoma_mexicanum_mai_2006.jpg/960px-Ambystoma_mexicanum_mai_2006.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ambystoma_mexicanum_mai_2006.jpg",
+      "author": "Christophe cagé",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "panorama": false,
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "title": "Axolotl (Ambystoma mexicanum)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/6_maja_06_r._ZOO_204.jpg/960px-6_maja_06_r._ZOO_204.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:6_maja_06_r._ZOO_204.jpg",
+      "author": "Monika Korzeniec",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "panorama": false,
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "title": "Axolotl",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Axolotl_ganz.jpg/960px-Axolotl_ganz.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Axolotl_ganz.jpg",
+      "author": "LoKiLeCh",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "panorama": false,
+      "width": 2178,
+      "height": 1215
+    },
+    {
+      "title": "Image of Ambystoma mexicanum taken at the Vancouver Aquarium.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ambystoma_mexicanum_at_Vancouver_Aquarium.jpg/960px-Ambystoma_mexicanum_at_Vancouver_Aquarium.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ambystoma_mexicanum_at_Vancouver_Aquarium.jpg",
+      "author": "ZeWrestler",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "panorama": false,
+      "width": 3964,
+      "height": 2712
+    }
+  ],
+  "american-bison": [
+    {
+      "title": "American bison ♂  (Bison bison bison) in Yellowstone National Park, Wyoming, United States. Only a week after this photo was taken, President Obama signed the National Bison Legacy Act, officially making the American bison the national mammal of the United States. Please also notice the moose photobombing the bison on the left.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/American_bison_in_Yellowstone_National_Park.jpg/960px-American_bison_in_Yellowstone_National_Park.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:American_bison_in_Yellowstone_National_Park.jpg",
+      "author": "Frank Schulenburg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "panorama": false,
+      "width": 4403,
+      "height": 2752
+    },
+    {
+      "title": "(1 in a multiple picture set)\nWe had to drive about a mile from our cabin to the dining room of Canyon Lodge.  One morning my wife said, 'Stop the car.  There is a buffalo there!'  He was a young fellow, and as he grazed he moved from the middle of the meadow to the side of the road, so close I could hear the sound of the grass being ripped from the ground.  I made sure to keep the car between him and me, as they are unpredictable, but he didn't seem to care that I was close to him.\n\nWe have since learned that the bison in Yellowstone are the only true strain of North American Bison.  Those in other states have been bred with different strains of buffalo.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Yellowstone_N.P.%2C_Bison_Near_Cabin_9-2011_%286911251143%29.jpg/960px-Yellowstone_N.P.%2C_Bison_Near_Cabin_9-2011_%286911251143%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Yellowstone_N.P.,_Bison_Near_Cabin_9-2011_(6911251143).jpg",
+      "author": "inkknife_2000 (7.5 million views +)",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "panorama": false,
+      "width": 1420,
+      "height": 1259
+    },
+    {
+      "title": "(1 in a multiple picture set)\nNear our cabin at Canyon Lodge, next to the road, we'd see this old fella.  He seemed to have the field all to himself.  I wondered if he had gotten old and decided to go off by himself to die, as I've heard they do. The first time we saw him he was standing so still that I wondered if someone had put a stuffed speciman in the field to fool people.  After several minutes we saw his tail switch.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Yellowstone_N.P.%2C_Bison_9-2011_%286911242911%29.jpg/960px-Yellowstone_N.P.%2C_Bison_9-2011_%286911242911%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Yellowstone_N.P.,_Bison_9-2011_(6911242911).jpg",
+      "author": "inkknife_2000 (7.5 million views +)",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "panorama": false,
+      "width": 1552,
+      "height": 1524
+    },
+    {
+      "title": "(1 in a multiple picture album)\nWe were just leaving the cabin for breakfast at the lodge when we spotted this young bison chowing down on the meadow grass behind the buildings.  (You can vaguely see part of a cabin through the trees.) I stopped the car and got out, keeping the vehicle between the beast and me.  He kept grazing along closer and closer until he was so close to me that I could hear the sound of the sod ripping out of the soil.  He never lifted head, but I noticed his near eye looking at me as he ate.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bison%2C_Canyon_Lodge%2C_Yellowstone_9-11_%2815311604476%29.jpg/960px-Bison%2C_Canyon_Lodge%2C_Yellowstone_9-11_%2815311604476%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bison,_Canyon_Lodge,_Yellowstone_9-11_(15311604476).jpg",
+      "author": "inkknife_2000 (7.5 million views +)",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "panorama": false,
+      "width": 2450,
+      "height": 2170
+    },
+    {
+      "title": "The obligatory Yellowstone wildlife photos, elk, bison, moose, osprey. I saw a bear but could not get a good photo.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bison_in_Yellowstone_%2850328729752%29.jpg/960px-Bison_in_Yellowstone_%2850328729752%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bison_in_Yellowstone_(50328729752).jpg",
+      "author": "Pedro Szekely from Los Angeles, USA",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "panorama": false,
+      "width": 5721,
+      "height": 3814
+    },
+    {
+      "title": "Bison grazing at Old Faithful Geyser in Yellowstone National Park, Wyoming, USAYellowstone National Park was founded on March 1, 1872, and is considered the world’s first national park. It is located primarily in the state of Wyoming, but also extends into Montana and Idaho. The initiative to establish the park was based on scientific expeditions from 1869 to 1871, which documented the unique landscape. President Ulysses S. Grant signed the protection law.The park covers approximately 8,983 km² and is located on a massive volcanic hotspot. About half of all geysers worldwide are found here. The Old Faithful geyser, which erupts approximately every 90 minutes, is famous. In addition to geysers, hot springs, mud pots, and the colorful Grand Prismatic Spring characterize the area.Yellowstone is also an important wildlife refuge. Since the reintroduction of wolves in 1995, it has been considered a model project for nature conservation. The park attracts several million visitors annually and has been a UNESCO World Heritage Site since 1978.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Upper_Geyser_Basin%2C_Bison_--_2022_--_135402.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Upper_Geyser_Basin%2C_Bison_--_2022_--_135402.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Yellowstone_National_Park_(WY,_USA),_Upper_Geyser_Basin,_Bison_--_2022_--_135402.jpg",
+      "author": "Dietmar Rabich",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "panorama": false,
+      "width": 4479,
+      "height": 4480
+    }
+  ],
+  "california-condor": [
+    {
+      "title": "A California Condor at the Condor Ridge exhibit of the San Diego Wild Animal Park.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/California-Condor3-Szmurlo_edit.jpg/960px-California-Condor3-Szmurlo_edit.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:California-Condor3-Szmurlo_edit.jpg",
+      "author": "Chuck Szmurlo",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "panorama": false,
+      "width": 1752,
+      "height": 2222
+    },
+    {
+      "title": "A Californian Condor in flight, photographed from the Navajo Bridge at Marble Canyon.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Californian_Condor_50_MC.jpg/960px-Californian_Condor_50_MC.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Californian_Condor_50_MC.jpg",
+      "author": "Christian Mehlführer, User:Chmehl",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": true,
+      "width": 2180,
+      "height": 1024
+    },
+    {
+      "title": "California Condor at San Diego Zoo, USA.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Gymnogyps_californianus_-San_Diego_Zoo-8a.jpg/960px-Gymnogyps_californianus_-San_Diego_Zoo-8a.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Gymnogyps_californianus_-San_Diego_Zoo-8a.jpg",
+      "author": "Stacy from San Diego",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "panorama": false,
+      "width": 3560,
+      "height": 2374
+    },
+    {
+      "title": "A California Condor (tagged number 82) at San Diego Zoo, USA.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Gymnogyps_californianus_-San_Diego_Zoo%2C_USA-8a.jpg/960px-Gymnogyps_californianus_-San_Diego_Zoo%2C_USA-8a.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Gymnogyps_californianus_-San_Diego_Zoo,_USA-8a.jpg",
+      "author": "Kent Wang",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "panorama": false,
+      "width": 4272,
+      "height": 2848
+    },
+    {
+      "title": "A California Condor at San Diego Zoo, California, USA.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gymnogyps_californianus_-San_Diego_Zoo%2C_California%2C_USA-8a.jpg/960px-Gymnogyps_californianus_-San_Diego_Zoo%2C_California%2C_USA-8a.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Gymnogyps_californianus_-San_Diego_Zoo,_California,_USA-8a.jpg",
+      "author": "Joe Lewis from Danville, California",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "panorama": false,
+      "width": 3008,
+      "height": 2000
+    },
+    {
+      "title": "An adult California Condor with a small chick near Hopper Mountain National Wildlife Refuge, California, USA.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gymnogyps_californianus_-near_Hopper_Mountain_National_Wildlife_Refuge%2C_California%2C_USA_-adult_and_chick-8.jpg/960px-Gymnogyps_californianus_-near_Hopper_Mountain_National_Wildlife_Refuge%2C_California%2C_USA_-adult_and_chick-8.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Gymnogyps_californianus_-near_Hopper_Mountain_National_Wildlife_Refuge,_California,_USA_-adult_and_chick-8.jpg",
+      "author": "Joseph Brandt, Pacific Southwest Region U.S. Fish and Wildlife Service, Sacramento, US",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "panorama": false,
+      "width": 2070,
+      "height": 3680
+    }
+  ],
+  "resplendent-quetzal": [
+    {
+      "title": "Resplendent Quetzal, Mirador de Quetzales, Costa Rica\n\nSwarowski 80 HD 30 X, Coolpix P5100 (Adapter DCB)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Resplendent_Quetzal%2C_Mirador_de_Quetzales%2C_Costa_Rica.jpg/960px-Resplendent_Quetzal%2C_Mirador_de_Quetzales%2C_Costa_Rica.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Resplendent_Quetzal,_Mirador_de_Quetzales,_Costa_Rica.jpg",
+      "author": "Frank Vassen",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "panorama": false,
+      "width": 1984,
+      "height": 1488
+    },
+    {
+      "title": "Resplendent Quetzal (Pharomachrus mocinno). Photographed at Savegre, in Costa Rica.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Pharomachrus_mocinno_-_Savegre_Costa_Rica_1.jpg/960px-Pharomachrus_mocinno_-_Savegre_Costa_Rica_1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Pharomachrus_mocinno_-_Savegre_Costa_Rica_1.jpg",
+      "author": "Dominic Sherony",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "panorama": false,
+      "width": 3000,
+      "height": 1695
+    },
+    {
+      "title": "Photographed at Savegre, in Costa Rica.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Resplendent_Quetzal_%28Pharomachrus_mocinno%29_%285772512254%29.jpg/960px-Resplendent_Quetzal_%28Pharomachrus_mocinno%29_%285772512254%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Resplendent_Quetzal_(Pharomachrus_mocinno)_(5772512254).jpg",
+      "author": "Dominic Sherony",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "panorama": false,
+      "width": 1255,
+      "height": 2146
+    },
+    {
+      "title": "Female\n\nPhotographed at Savegre, in Costa Rica.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Resplendent_Quetzal_%28Pharomachrus_mocinno%29_%285772516208%29.jpg/960px-Resplendent_Quetzal_%28Pharomachrus_mocinno%29_%285772516208%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Resplendent_Quetzal_(Pharomachrus_mocinno)_(5772516208).jpg",
+      "author": "Dominic Sherony",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "panorama": false,
+      "width": 3000,
+      "height": 1694
+    },
+    {
+      "title": "Photographed at Savegre, in Costa Rica.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Resplendent_Quetzal_%28Pharomachrus_mocinno%29_%285772514472%29.jpg/960px-Resplendent_Quetzal_%28Pharomachrus_mocinno%29_%285772514472%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Resplendent_Quetzal_(Pharomachrus_mocinno)_(5772514472).jpg",
+      "author": "Dominic Sherony",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "panorama": false,
+      "width": 2710,
+      "height": 2758
+    },
+    {
+      "title": "Photographed at Savegre, in Costa Rica.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Resplendent_Quetzal_%28Pharomachrus_mocinno%29_%285771970213%29.jpg/960px-Resplendent_Quetzal_%28Pharomachrus_mocinno%29_%285771970213%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Resplendent_Quetzal_(Pharomachrus_mocinno)_(5771970213).jpg",
+      "author": "Dominic Sherony",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "panorama": false,
+      "width": 2176,
+      "height": 2504
+    }
+  ],
+  "galapagos-tortoise": [
+    {
+      "title": "A dome-shelled Galápagos giant tortoise, Chelonoidis nigra",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Galapagos_giant_tortoise_Geochelone_elephantopus.jpg/960px-Galapagos_giant_tortoise_Geochelone_elephantopus.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Galapagos_giant_tortoise_Geochelone_elephantopus.jpg",
+      "author": "Mfield, Matthew Field, http://www.photography.mattfield.com",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 3504,
+      "height": 2336
+    },
+    {
+      "title": "Galapagos Tortoise (Geochelone nigra).\nTaken at the Western Plains Zoo (Dubbo NSW Australia).\n\nThis photograph is licensed under a Creative Commons Attribution-ShareAlike 2.0 Generic License.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Geochelone_nigra_1.jpg/960px-Geochelone_nigra_1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Geochelone_nigra_1.jpg",
+      "author": "PG Palmer",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "panorama": false,
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "title": "Head of a male Galápagos tortoise (Chelonoidis nigra) feeding on Santa Cruz Island, Galapagos Islands.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Gal%C3%A1pagos_tortoise_Santa_Cruz.jpg/960px-Gal%C3%A1pagos_tortoise_Santa_Cruz.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Gal%C3%A1pagos_tortoise_Santa_Cruz.jpg",
+      "author": "Charles J. Sharp",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 3072,
+      "height": 2048
+    },
+    {
+      "title": "Diego",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Gal%C3%A1pagos_tortoise_%284228261221%29.jpg/960px-Gal%C3%A1pagos_tortoise_%284228261221%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Gal%C3%A1pagos_tortoise_(4228261221).jpg",
+      "author": "Peter Wilton",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "panorama": false,
+      "width": 3008,
+      "height": 2000
+    },
+    {
+      "title": "Diego",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Gal%C3%A1pagos_tortoise_%284229029054%29.jpg/960px-Gal%C3%A1pagos_tortoise_%284229029054%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Gal%C3%A1pagos_tortoise_(4229029054).jpg",
+      "author": "Peter Wilton",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "panorama": false,
+      "width": 3008,
+      "height": 2000
+    },
+    {
+      "title": "Juvenile Galápagos tortoise",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Juvenile_Gal%C3%A1pagos_tortoise_%284228257599%29.jpg/960px-Juvenile_Gal%C3%A1pagos_tortoise_%284228257599%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Juvenile_Gal%C3%A1pagos_tortoise_(4228257599).jpg",
+      "author": "Peter Wilton",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "panorama": false,
+      "width": 3008,
+      "height": 2000
+    }
+  ],
+  "marine-iguana": [
+    {
+      "title": "Galápagos marine iguana (Amblyrhynchus cristatus albemarlensis). Photograph taken on Isabela Island using Canon EOS300D and Canon 300mm Image Stabilizer EF lens with Skylight 1A filter.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gal%C3%A1pagos_marine_iguana.jpg/960px-Gal%C3%A1pagos_marine_iguana.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Gal%C3%A1pagos_marine_iguana.jpg",
+      "author": "Charles J. Sharp",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 2559,
+      "height": 1854
+    },
+    {
+      "title": "The marine iguana (Amblyrhynchus cristatus) swimming in Puerto Ayora on the southern shore of Santa Cruz island in the Galápagos - Photographed by David Adam Kess.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/The_marine_iguana_%28Amblyrhynchus_cristatus%29_Gal%C3%A1pagos_Islands_Santa_Cruz.JPG/960px-The_marine_iguana_%28Amblyrhynchus_cristatus%29_Gal%C3%A1pagos_Islands_Santa_Cruz.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:The_marine_iguana_(Amblyrhynchus_cristatus)_Gal%C3%A1pagos_Islands_Santa_Cruz.JPG",
+      "author": "David Adam Kess",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 4000,
+      "height": 3000
+    },
+    {
+      "title": "Amblyrhynchus cristatus",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Amblyrhynchus_cristatus_%283838137696%29.jpg/960px-Amblyrhynchus_cristatus_%283838137696%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Amblyrhynchus_cristatus_(3838137696).jpg",
+      "author": "RAF-YYC from Calgary, Canada",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "panorama": false,
+      "width": 3888,
+      "height": 2592
+    },
+    {
+      "title": "Marine iguana (Amblyrhynchus cristatus), Las Bachas, Baltra island, Galapagos islands, Ecuador",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Iguana_marina_%28Amblyrhynchus_cristatus%29%2C_Las_Bachas%2C_isla_Santa_Cruz%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-23%2C_DD_33.jpg/960px-Iguana_marina_%28Amblyrhynchus_cristatus%29%2C_Las_Bachas%2C_isla_Santa_Cruz%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-23%2C_DD_33.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Iguana_marina_(Amblyrhynchus_cristatus),_Las_Bachas,_isla_Santa_Cruz,_islas_Gal%C3%A1pagos,_Ecuador,_2015-07-23,_DD_33.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "panorama": false,
+      "width": 8688,
+      "height": 4925
+    },
+    {
+      "title": "Marine iguana (Amblyrhynchus cristatus), Las Bachas, Baltra island, Galapagos islands, Ecuador",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Iguana_marina_%28Amblyrhynchus_cristatus%29%2C_Las_Bachas%2C_isla_Santa_Cruz%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-23%2C_DD_24.jpg/960px-Iguana_marina_%28Amblyrhynchus_cristatus%29%2C_Las_Bachas%2C_isla_Santa_Cruz%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-23%2C_DD_24.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Iguana_marina_(Amblyrhynchus_cristatus),_Las_Bachas,_isla_Santa_Cruz,_islas_Gal%C3%A1pagos,_Ecuador,_2015-07-23,_DD_24.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "panorama": false,
+      "width": 8475,
+      "height": 5650
+    },
+    {
+      "title": "Exemplar of marine iguana (Amblyrhynchus cristatus) lying on a rock in the coast of Las Bachas, Santa Cruz Island, Galápagos Islands, Ecuador.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Iguana_marina_%28Amblyrhynchus_cristatus%29%2C_Las_Bachas%2C_isla_Santa_Cruz%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-23%2C_DD_23.jpg/960px-Iguana_marina_%28Amblyrhynchus_cristatus%29%2C_Las_Bachas%2C_isla_Santa_Cruz%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-23%2C_DD_23.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Iguana_marina_(Amblyrhynchus_cristatus),_Las_Bachas,_isla_Santa_Cruz,_islas_Gal%C3%A1pagos,_Ecuador,_2015-07-23,_DD_23.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "panorama": false,
+      "width": 8382,
+      "height": 4635
+    }
+  ],
+  "andean-condor": [
+    {
+      "title": "Andean Condor Vultur gryphus at Cincinnati Zoo",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Andean_Condor_065.jpg/960px-Andean_Condor_065.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Andean_Condor_065.jpg",
+      "author": "Ltshears",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 2695,
+      "height": 1830
+    },
+    {
+      "title": "Andean Condor (Vultur gryphus), Oliwa Zoo in Gdańsk, Poland.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Vultur_gryphus_Oliwa_3.JPG/960px-Vultur_gryphus_Oliwa_3.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Vultur_gryphus_Oliwa_3.JPG",
+      "author": "Crusier",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 4102,
+      "height": 2734
+    },
+    {
+      "title": "Condor des Andes  au  Château de Beaucens",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Condor_des_andes_-_Vultur_gryphus-_Ch%C3%A2teau_de_Beaucens-002.JPG/960px-Condor_des_andes_-_Vultur_gryphus-_Ch%C3%A2teau_de_Beaucens-002.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Condor_des_andes_-_Vultur_gryphus-_Ch%C3%A2teau_de_Beaucens-002.JPG",
+      "author": "Serge Ottaviani",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 2592,
+      "height": 4608
+    },
+    {
+      "title": "Head by the Andean condor (Vultur gryphus) in Hanover Zoo.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Vultur_gryphus_head_%28Linnaeus%2C_1758%29.jpg/960px-Vultur_gryphus_head_%28Linnaeus%2C_1758%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Vultur_gryphus_head_(Linnaeus,_1758).jpg",
+      "author": "Michael Gäbler",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "panorama": false,
+      "width": 2456,
+      "height": 1709
+    },
+    {
+      "title": "Andean Condor in Patagonia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Male_Andean_Condor.jpg/960px-Male_Andean_Condor.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Male_Andean_Condor.jpg",
+      "author": "Thomas Hartmann",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "panorama": false,
+      "width": 1335,
+      "height": 1026
+    },
+    {
+      "title": "Andean Condor (Vultur gryphus)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Andean_Condor_%28Vultur_gryphus%29_%2815772940279%29.jpg/960px-Andean_Condor_%28Vultur_gryphus%29_%2815772940279%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Andean_Condor_(Vultur_gryphus)_(15772940279).jpg",
+      "author": "Dominic Sherony",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "panorama": false,
+      "width": 4000,
+      "height": 2667
+    }
+  ],
+  "spectacled-bear": [
+    {
+      "title": "photography of Tremarcos onatus (ursus) in old zoologic Parc de la Tête d'Or. This potential class is bear and Tremarcos ornatus.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Tremarcos_ornatus_PTO1_27-01-06.JPG/960px-Tremarcos_ornatus_PTO1_27-01-06.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Tremarcos_ornatus_PTO1_27-01-06.JPG",
+      "author": "--Ygonaar 23:18, 12 March 2006 (UTC)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "panorama": false,
+      "width": 2592,
+      "height": 1944
+    },
+    {
+      "title": "Tremarctos ornatus Spectacled Bear at the en:Houston Zoo",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Spectacled_Bear_-_Houston_Zoo.jpg/960px-Spectacled_Bear_-_Houston_Zoo.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Spectacled_Bear_-_Houston_Zoo.jpg",
+      "author": "en:User:Cburnett",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "panorama": false,
+      "width": 1250,
+      "height": 1138
+    },
+    {
+      "title": "Spectacled bear in Lyon's zoo",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Tremarctos_Lyon_2.jpg/960px-Tremarctos_Lyon_2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tremarctos_Lyon_2.jpg",
+      "author": "Remi Mathis",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "panorama": false,
+      "width": 1702,
+      "height": 1416
+    },
+    {
+      "title": "天王寺動物園のメガネグマ。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Spectacled_Bear_Tennoji_2.jpg/960px-Spectacled_Bear_Tennoji_2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Spectacled_Bear_Tennoji_2.jpg",
+      "author": "Kuribo",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "title": "Spectacled Bear Tremarctos ornatus at Cincinnati Zoo",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Spectacled_Bear_059.jpg/960px-Spectacled_Bear_059.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Spectacled_Bear_059.jpg",
+      "author": "Ltshears",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 1935,
+      "height": 2580
+    },
+    {
+      "title": "Tremarctos ornatus at the Cincinnati Zoo.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tremarctos_ornatus_25.jpg/960px-Tremarctos_ornatus_25.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tremarctos_ornatus_25.jpg",
+      "author": "Greg Hume",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 5184,
+      "height": 3456
+    }
+  ],
+  "giant-sequoia": [
+    {
+      "title": "The \"Grizzly Giant\" is one of the main attractions in Mariposa Grove in Yosemite National Park. It is a landmark ancient Giant redwood (Sequoiadendron giganteum) tree. Note the size of the people at the bottom of the image for scale.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Grizzly_Giant_Mariposa_Grove.jpg/960px-Grizzly_Giant_Mariposa_Grove.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Grizzly_Giant_Mariposa_Grove.jpg",
+      "author": "Mike Murphy (talk · contribs)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "panorama": false,
+      "width": 1568,
+      "height": 2896
+    },
+    {
+      "title": "Photograph of the lightning protection system cable on the Giant Sequoiaen (Sequoiadendron giganteum en   ) at the Tyler Arboretum (where it was identified).  See Image:Sequoiadendron giganteum Giant Sequoia Tyler Arboretum 2000px.jpg for more information on the tree.\n\n\n\n\n\nCamera and Exposure Details:Camera: Nikon Coolpix 8700Lens: Nikon Zoom Nikkor ED 8.9-71.2mm 1:2.8-4.2Exposure: \n21mm (82.6mm in 35mm equivalent) f/4.4 @ 5/49 s. (50 ISO)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Sequoiadendron_giganteum_Giant_Sequoia_Lightning_2448px.jpg/960px-Sequoiadendron_giganteum_Giant_Sequoia_Lightning_2448px.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Sequoiadendron_giganteum_Giant_Sequoia_Lightning_2448px.jpg",
+      "author": "Photo (c)2006 Derek Ramsey (Ram-Man)",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "panorama": false,
+      "width": 2448,
+      "height": 3264
+    },
+    {
+      "title": "Sequoiadendron giganteum 08091.JPG",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Sequoiadendron_giganteum_08091.JPG/960px-Sequoiadendron_giganteum_08091.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Sequoiadendron_giganteum_08091.JPG",
+      "author": "Wikimedia Commons contributor",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "panorama": false,
+      "width": 1920,
+      "height": 2560
+    },
+    {
+      "title": "Sequoiadendron giganteum 08092.JPG",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sequoiadendron_giganteum_08092.JPG/960px-Sequoiadendron_giganteum_08092.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Sequoiadendron_giganteum_08092.JPG",
+      "author": "Wikimedia Commons contributor",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "panorama": false,
+      "width": 1879,
+      "height": 2506
+    },
+    {
+      "title": "Sequoiadendron giganteum 08137.JPG",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Sequoiadendron_giganteum_08137.JPG/960px-Sequoiadendron_giganteum_08137.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Sequoiadendron_giganteum_08137.JPG",
+      "author": "Wikimedia Commons contributor",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "panorama": false,
+      "width": 2560,
+      "height": 1920
+    },
+    {
+      "title": "Sequoiadendron giganteum 08145.JPG",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sequoiadendron_giganteum_08145.JPG/960px-Sequoiadendron_giganteum_08145.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Sequoiadendron_giganteum_08145.JPG",
+      "author": "Wikimedia Commons contributor",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "panorama": false,
+      "width": 1865,
+      "height": 2487
+    }
+  ],
+  "venus-flytrap": [
+    {
+      "title": "The trap of a Venus fly trap, showing trigger hairs.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Venus_Flytrap_showing_trigger_hairs.jpg/960px-Venus_Flytrap_showing_trigger_hairs.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Venus_Flytrap_showing_trigger_hairs.jpg",
+      "author": "Noah Elhardt",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "panorama": false,
+      "width": 1527,
+      "height": 1670
+    },
+    {
+      "title": "Trap of Dionaea muscipula",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Dionaea_muscipula_trap.jpg/960px-Dionaea_muscipula_trap.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dionaea_muscipula_trap.jpg",
+      "author": "che",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "panorama": false,
+      "width": 3456,
+      "height": 2304
+    },
+    {
+      "title": "Pictures taken by myself at Longwood Gardens",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/MP_-_Dionaea_muscipula_1.jpg/960px-MP_-_Dionaea_muscipula_1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:MP_-_Dionaea_muscipula_1.jpg",
+      "author": "Mark Pellegrini",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "panorama": false,
+      "width": 2016,
+      "height": 1512
+    },
+    {
+      "title": "Venus Flytrap flower - 20mm in diameter.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Dionaea_muscipula_flower_1.JPG/960px-Dionaea_muscipula_flower_1.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Dionaea_muscipula_flower_1.JPG",
+      "author": "Calyponte",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 3888,
+      "height": 2592
+    },
+    {
+      "title": "seeds of en:Dionaea muscipula",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Dionaea_muscipula_seeds.jpg/960px-Dionaea_muscipula_seeds.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dionaea_muscipula_seeds.jpg",
+      "author": "Rosťa Kracík",
+      "license": "CC BY 3.0 cz",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/cz/deed.en",
+      "panorama": false,
+      "width": 1069,
+      "height": 854
+    },
+    {
+      "title": "Dionaea muscipula at the University of Helsinki Botanical Garden",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Dionaea_muscipula_Helsinki.JPG/960px-Dionaea_muscipula_Helsinki.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Dionaea_muscipula_Helsinki.JPG",
+      "author": "Kuzia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 2048,
+      "height": 1536
+    }
+  ],
+  "saguaro": [
+    {
+      "title": "Saguaro cactus at the Sonoran Desert, Mexico.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Sahuaro_in_bloom_2.jpg/960px-Sahuaro_in_bloom_2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Sahuaro_in_bloom_2.jpg",
+      "author": "Tomascastelazo",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 2336,
+      "height": 3504
+    },
+    {
+      "title": "Saguaro (Carnegiea gigantea), Tonto National Forest, Arizona, United States",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Saguaro_01.jpg/960px-Saguaro_01.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Saguaro_01.jpg",
+      "author": "Bernard Gagnon",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 1944,
+      "height": 2592
+    },
+    {
+      "title": "Saguaro (Carnegiea gigantea), Botanic Conservatory, Fort Wayne, USA",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Saguaro_%28Carnegiea_gigantea%29%2C_Conservatorio_bot%C3%A1nico%2C_Fort_Wayne%2C_Indiana%2C_Estados_Unidos%2C_2012-11-12%2C_DD_01.jpg/960px-Saguaro_%28Carnegiea_gigantea%29%2C_Conservatorio_bot%C3%A1nico%2C_Fort_Wayne%2C_Indiana%2C_Estados_Unidos%2C_2012-11-12%2C_DD_01.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Saguaro_(Carnegiea_gigantea),_Conservatorio_bot%C3%A1nico,_Fort_Wayne,_Indiana,_Estados_Unidos,_2012-11-12,_DD_01.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 3232,
+      "height": 5391
+    },
+    {
+      "title": "Carnegiea gigantea",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/CarnegieaGigantea.jpg/960px-CarnegieaGigantea.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:CarnegieaGigantea.jpg",
+      "author": "RoFra",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "panorama": false,
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "title": "West Saguaro National Park around Sombrero Mountain near Tucson, Arizona in November 2016.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Carnegiea_gigantea_in_Saguaro_National_Park_near_Tucson%2C_Arizona_during_November_%2858%29.jpg/960px-Carnegiea_gigantea_in_Saguaro_National_Park_near_Tucson%2C_Arizona_during_November_%2858%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Carnegiea_gigantea_in_Saguaro_National_Park_near_Tucson,_Arizona_during_November_(58).jpg",
+      "author": "WClarke",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 3000,
+      "height": 4000
+    },
+    {
+      "title": "Carnegiea gigantea or Sahuaro or Saguaro, in the Sonoran desert.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Carnegiea_gigantea_or_Sahuaro_or_Saguaro.jpg/960px-Carnegiea_gigantea_or_Sahuaro_or_Saguaro.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Carnegiea_gigantea_or_Sahuaro_or_Saguaro.jpg",
+      "author": "Tomascastelazo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "panorama": false,
+      "width": 3648,
+      "height": 5068
+    }
+  ],
+  "puya-raimondii": [
+    {
+      "title": "Puya raimondii 1.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Puya_raimondii_1.jpg/960px-Puya_raimondii_1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Puya_raimondii_1.jpg",
+      "author": "Wikimedia Commons contributor",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 2400,
+      "height": 1800
+    },
+    {
+      "title": "Puya raimondii 2.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Puya_raimondii_2.jpg/960px-Puya_raimondii_2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Puya_raimondii_2.jpg",
+      "author": "Wikimedia Commons contributor",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 1000,
+      "height": 1462
+    },
+    {
+      "title": "Puya raimondii 3.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Puya_raimondii_3.jpg/960px-Puya_raimondii_3.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Puya_raimondii_3.jpg",
+      "author": "Wikimedia Commons contributor",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 1200,
+      "height": 1733
+    },
+    {
+      "title": "Puya raimondii flowering in Ayacucho, Peru.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Puya_raimondii_h%C3%A1bito.jpg/960px-Puya_raimondii_h%C3%A1bito.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Puya_raimondii_h%C3%A1bito.jpg",
+      "author": "Pepe Roque",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 1944,
+      "height": 2592
+    },
+    {
+      "title": "Puya raimondii\nPhoto prise dans la Province de Huaraz, Peru",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/La_base_de_la_Puya_Raimondi.jpg/960px-La_base_de_la_Puya_Raimondi.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:La_base_de_la_Puya_Raimondi.jpg",
+      "author": "Vane59",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "title": "Puya raimondii\nPhoto prise dans la Province de Huaraz, Peru.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/La_Puya_Raimondi.jpg/960px-La_Puya_Raimondi.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:La_Puya_Raimondi.jpg",
+      "author": "Vane59",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 1536,
+      "height": 2048
+    }
+  ],
+  "monkey-puzzle": [
+    {
+      "title": "Araucaria araucana",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Araucaria_araucana-detail.jpg/960px-Araucaria_araucana-detail.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Araucaria_araucana-detail.jpg",
+      "author": "This photo was taken by Roman Bonnefoy (  Romanceor [parlons-en]). Feel free to use my pictures, but please credit me as the author (as required by the license).\nAn   email or a message would be welcome.\nMore free-licensed pictures on my french Wikipedia account. \nMy website : www.romanceor.net.",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "panorama": false,
+      "width": 3008,
+      "height": 2000
+    },
+    {
+      "title": "Closeup on mature cones and a branch of an Araucaria araucana tree in front of Hulda Klager Lilac Gardens in Woodland, Washington.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Araucaria_araucana_cones_at_Hulda_Klager_Lilac_Gardens.jpg/960px-Araucaria_araucana_cones_at_Hulda_Klager_Lilac_Gardens.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Araucaria_araucana_cones_at_Hulda_Klager_Lilac_Gardens.jpg",
+      "author": "Dcoetzee",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "panorama": false,
+      "width": 3328,
+      "height": 2848
+    },
+    {
+      "title": "Araucaria araucana seedling, Malleco Province, Araucania Region, Chile",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Araucaria_araucana_-_araucarita.jpg/960px-Araucaria_araucana_-_araucarita.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Araucaria_araucana_-_araucarita.jpg",
+      "author": "lautaroj",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "panorama": false,
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "title": "Araucaria araucana (Monkey puzzle tree) at the jardin botanique de Lyon, France.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Araucaria_araucana_%28Araucaria_du_Chili%29_-_98.jpg/960px-Araucaria_araucana_%28Araucaria_du_Chili%29_-_98.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Araucaria_araucana_(Araucaria_du_Chili)_-_98.jpg",
+      "author": "Another one of my pictures:\n\n\n\nThis photograph was taken by Medium69 (William Crochot) and released under the license stated below. You are free to use it for any purpose as long as you credit the author (William Crochot), the Source (Wikimedia Commons) and the license (CC-BY-SA 4.0) in close relation to the image.\n\n\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source RAW. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "panorama": false,
+      "width": 4182,
+      "height": 2788
+    },
+    {
+      "title": "Some Araucaria tree located in the Conguillío National Park, Chile",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Araucaria_en_Parque_Nacional_Conguillio.jpg/960px-Araucaria_en_Parque_Nacional_Conguillio.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Araucaria_en_Parque_Nacional_Conguillio.jpg",
+      "author": "Vicente Fernández Rioja",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "panorama": false,
+      "width": 1333,
+      "height": 2000
+    },
+    {
+      "title": "Photo of Araucaria araucana (Monkey Puzzle Tree) at the Royal Botanic Garden Edinburgh.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Araucaria_araucana_%28Monkey_Puzzle%29.jpg/960px-Araucaria_araucana_%28Monkey_Puzzle%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Araucaria_araucana_(Monkey_Puzzle).jpg",
+      "author": "Mike Shaw",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "panorama": false,
+      "width": 4000,
+      "height": 6000
+    }
+  ],
+  "victoria-amazonica": [
+    {
+      "title": "Victoria amazonica JPG01.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Victoria_amazonica_JPG01.jpg/960px-Victoria_amazonica_JPG01.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Victoria_amazonica_JPG01.jpg",
+      "author": "Wikimedia Commons contributor",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "panorama": false,
+      "width": 2496,
+      "height": 1664
+    },
+    {
+      "title": "http://nl.wikipedia.org/wiki/Victoria_amazonica\">nl.wikipedia.org/wiki/Victoria_amazonicavictoria",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Victoria_amazonica_full_view.jpg/960px-Victoria_amazonica_full_view.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Victoria_amazonica_full_view.jpg",
+      "author": "frank wouters",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "panorama": false,
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "title": "Victoria amazonica flower headvictoria",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Victoria_amazonica_flower_head.jpg/960px-Victoria_amazonica_flower_head.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Victoria_amazonica_flower_head.jpg",
+      "author": "frank wouters",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "panorama": false,
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "title": "Nelumbo nucifera and Victoria amazonica Kobe Kachoen (Kobe Flowers and Birds Garden) in Kobe, Hyogo prefecture, Japan.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kobe_kachoen17s3200.jpg/960px-Kobe_kachoen17s3200.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Kobe_kachoen17s3200.jpg",
+      "author": "663highland",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "panorama": false,
+      "width": 3200,
+      "height": 2142
+    },
+    {
+      "title": "Flower from the Giant Amazon Water Lilly (Victoria amazonica) at the Adelaide Botanic Garden.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Victoria_amazonica.jpg/960px-Victoria_amazonica.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Victoria_amazonica.jpg",
+      "author": "Bilby",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "panorama": false,
+      "width": 2532,
+      "height": 3000
+    },
+    {
+      "title": "Flower from the Giant Amazon Water Lilly (Victoria amazonica) at the Adelaide Botanic Garden.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Victoria_amazonica_edit_1.jpg/960px-Victoria_amazonica_edit_1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Victoria_amazonica_edit_1.jpg",
+      "author": "Bilby",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "panorama": false,
+      "width": 2500,
+      "height": 3000
+    }
   ]
 }
