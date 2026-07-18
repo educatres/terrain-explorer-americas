@@ -15,10 +15,20 @@ const missions = [
 ];
 
 const map = L.map('map', { minZoom: 2, maxZoom: 12, zoomControl: true }).setView([48, -105], 3);
-L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+const satelliteOptions = {
   maxZoom: 18,
   attribution: 'Tiles &copy; Esri, Maxar, Earthstar Geographics'
-}).addTo(map);
+};
+const primarySatelliteLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', satelliteOptions).addTo(map);
+const backupSatelliteLayer = L.tileLayer('https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', satelliteOptions);
+let failedSatelliteTiles = 0;
+
+primarySatelliteLayer.on('tileerror', () => {
+  failedSatelliteTiles += 1;
+  if (failedSatelliteTiles < 3 || map.hasLayer(backupSatelliteLayer)) return;
+  map.removeLayer(primarySatelliteLayer);
+  backupSatelliteLayer.addTo(map);
+});
 
 const groups = Object.fromEntries(Object.keys(CATEGORY_META).map(key => [key, L.layerGroup().addTo(map)]));
 const selectedCategories = new Set(Object.keys(CATEGORY_META));
