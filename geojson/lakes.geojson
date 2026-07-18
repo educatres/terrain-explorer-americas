@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"name":"五大湖區","source":"Natural Earth 公開領域湖泊資料參考後之教學概略化"},"geometry":{"type":"Polygon","coordinates":[[[-92,49],[-92,41],[-76,41],[-76,49],[-92,49]]]}},
+{"type":"Feature","properties":{"name":"大熊湖","source":"Natural Earth 公開領域湖泊資料參考後之教學概略化"},"geometry":{"type":"Polygon","coordinates":[[[-125,68],[-125,64],[-117,64],[-117,68],[-125,68]]]}}
+]}
