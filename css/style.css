@@ -45,6 +45,7 @@ h2 { font-size:1rem; margin:0 0 10px; }
 .empty-state { margin:18vh auto 0; max-width:270px; text-align:center; color:var(--muted); }
 .empty-state h2 { color:var(--ink); font-size:1.2rem; }
 .empty-icon { font-size:3rem; }
+.map-warning { margin:0 0 14px; padding:10px 12px; border:1px solid #f0c36d; border-radius:8px; background:#fff8e8; color:#6a4a00; font-size:.88rem; line-height:1.5; }
 .place-title { margin:0; font-size:1.45rem; }
 .place-en { color:var(--muted); margin:.2rem 0 .7rem; }
 .tag-row { display:flex; flex-wrap:wrap; gap:6px; margin:10px 0 16px; }

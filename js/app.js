@@ -16,21 +16,47 @@ const missions = [
 
 const map = L.map('map', { minZoom: 2, maxZoom: 12, zoomControl: true }).setView([48, -105], 3);
 
+const osmLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  maxZoom: 19,
+  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>'
+});
+
+const topoLayer = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
+  maxZoom: 17,
+  attribution: 'Map data: &copy; OpenStreetMap contributors, SRTM | Map style: &copy; OpenTopoMap (CC-BY-SA)'
+});
+
+const satelliteLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+  maxZoom: 18,
+  attribution: 'Tiles &copy; Esri — Source: Esri, Maxar, Earthstar Geographics, and the GIS User Community'
+});
+
 const baseLayers = {
-  'OpenStreetMap 一般地圖': L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 19,
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>'
-  }),
-  'OpenTopoMap 地形圖': L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
-    maxZoom: 17,
-    attribution: 'Map data: &copy; OpenStreetMap contributors, SRTM | Map style: &copy; OpenTopoMap (CC-BY-SA)'
-  }),
-  'Esri 衛星影像': L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
-    maxZoom: 18,
-    attribution: 'Tiles &copy; Esri — Source: Esri, Maxar, Earthstar Geographics, and the GIS User Community'
-  })
+  'OpenStreetMap 一般地圖': osmLayer,
+  'OpenTopoMap 地形圖': topoLayer,
+  'Esri 衛星影像': satelliteLayer
 };
-baseLayers['OpenTopoMap 地形圖'].addTo(map);
+
+osmLayer.addTo(map);
+let showedMapFallback = false;
+
+function fallbackToOpenStreetMap() {
+  if (map.hasLayer(osmLayer)) return;
+  Object.values(baseLayers).forEach(layer => {
+    if (layer !== osmLayer && map.hasLayer(layer)) map.removeLayer(layer);
+  });
+  osmLayer.addTo(map);
+  if (!showedMapFallback) {
+    showedMapFallback = true;
+    document.getElementById('infoPanel').insertAdjacentHTML('afterbegin',
+      '<div class="map-warning">目前選擇的底圖暫時無法載入，已自動切回 OpenStreetMap。</div>'
+    );
+  }
+}
+
+[topoLayer, satelliteLayer].forEach(layer => {
+  layer.on('tileerror', fallbackToOpenStreetMap);
+});
 
 const groups = Object.fromEntries(Object.keys(CATEGORY_META).map(k => [k, L.layerGroup().addTo(map)]));
 const overlayLayers = {};
