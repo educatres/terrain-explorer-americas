@@ -5,8 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="description" content="可切換山脈、水文、特殊地形與國家公園圖層的北美洲互動式地理教材。" />
   <title>北美地形探險隊</title>
-  <link rel="preconnect" href="https://www.google.com" />
-  <link rel="stylesheet" href="css/style.css?v=20260718-2" />
+  <link rel="preconnect" href="https://server.arcgisonline.com" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIINfQ3ynhIuE+6H7F5ZJb0eQ5l+u5cKk8M=" crossorigin="" />
+  <link rel="stylesheet" href="css/style.css?v=20260718-3" />
 </head>
 <body>
   <header class="topbar">
@@ -25,7 +26,7 @@
     <aside class="sidebar" aria-label="教材控制區">
       <section>
         <h2>探索主題</h2>
-        <p class="hint">選擇要搜尋的主題，再輸入景點名稱定位 Google 地圖。</p>
+        <p class="hint">預設顯示無道路與國界的衛星地形；可切換教材標註。</p>
         <div id="categoryFilters" class="filter-grid"></div>
       </section>
 
@@ -36,6 +37,11 @@
           <button id="searchBtn" class="icon-btn" aria-label="搜尋">⌕</button>
         </div>
         <div id="searchResults" class="search-results" aria-live="polite"></div>
+      </section>
+
+      <section>
+        <h2>景點清單</h2>
+        <div id="placeList" class="place-list" aria-label="可選取的景點清單"></div>
       </section>
 
       <section class="lesson-box">
@@ -51,15 +57,15 @@
     </aside>
 
     <section class="map-panel">
-      <iframe id="map" title="北美洲 Google 地圖" loading="eager" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe>
-      <div class="map-note">Google 地圖由 Google 提供；使用搜尋或導覽可定位到教材景點。</div>
+      <div id="map" role="application" aria-label="北美洲衛星地形與教材標註地圖"></div>
+      <div class="map-note">衛星地形底圖不顯示道路或國界；彩色標記與文字為教材標註。</div>
     </section>
 
     <aside id="infoPanel" class="info-panel" aria-live="polite">
       <div class="empty-state">
         <div class="empty-icon">🧭</div>
-        <h2>搜尋景點開始探索</h2>
-        <p>輸入山脈、河流、特殊地形或國家公園名稱，查看形成原因、實景與資料來源。</p>
+        <h2>從清單選擇景點</h2>
+        <p>選取山脈、河流、特殊地形或國家公園，查看形成原因、實景與資料來源。</p>
       </div>
     </aside>
   </main>
@@ -75,6 +81,7 @@
     </form>
   </dialog>
 
-  <script src="js/app.js?v=20260718-2" type="module"></script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="js/app.js?v=20260718-3" type="module"></script>
 </body>
 </html>
